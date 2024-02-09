@@ -1,0 +1,11 @@
+{
+  "name": "teams-fix-notifications",
+  "version": "1.0.0",
+  "main": "background.js",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-types": "^0.1.261",
+    "typescript": "^5.3.3"
+  },
+  "type": "module"
+}
